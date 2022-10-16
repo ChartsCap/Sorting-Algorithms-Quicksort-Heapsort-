@@ -1,0 +1,15 @@
+
+INFO [L:53] 
+Testing if the required functions are implemented. (['quicksort_pivot_first', 'quicksort_pivot_median', 'heapsort'])
+
+INFO [L:61] All required functions are there.
+
+
+INFO [L:183] Correct sorting for Quicksort
+
+INFO [L:197] Correct sorting for Heapsort
+
+INFO [L:234] Performance check OK, all requirements met
+
+INFO [L:153] 
+Checking code quality by pylint score, 8.0 is minimum to pass
